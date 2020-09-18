@@ -1,0 +1,9 @@
+node_modules/
+
+files
+!files/.gitkeep
+
+files_compressed/
+!files_compressed/.gitkeep
+
+.env
