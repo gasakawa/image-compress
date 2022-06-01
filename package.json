@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "sharp": "^0.26.0"
+    "sharp": "^0.30.5"
   },
   "scripts": {
     "start": "node server.js"
